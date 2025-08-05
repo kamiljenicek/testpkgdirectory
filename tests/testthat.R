@@ -7,6 +7,6 @@
 # * https://testthat.r-lib.org/articles/special-files.html
 
 library(testthat)
-library(directory)
+library(testpkgdirectory)
 
-test_check("directory")
+test_check("testpkgdirectory")
