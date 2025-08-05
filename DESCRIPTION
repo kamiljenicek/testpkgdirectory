@@ -1,5 +1,5 @@
 Package: testpkgdirectory
-Title: Just trying out the package creation.
+Title: Just trying out the package creation
 Version: 0.0.0.9000
 Authors@R: 
     person("Kamil", "Last", , "first.last@example.com", role = c("aut", "cre"))
