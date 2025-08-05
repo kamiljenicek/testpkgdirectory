@@ -29,5 +29,4 @@ library(testpkgdirectory)
 ## basic example code
 str_split_one("a,b,c", ",")
 #> [1] "a" "b" "c"
-#[1] "a" "b" "c"
 ```
