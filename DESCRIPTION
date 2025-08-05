@@ -1,4 +1,4 @@
-Package: test_pkg_directory
+Package: testpkgdirectory
 Title: Just trying out the package creation.
 Version: 0.0.0.9000
 Authors@R: 
@@ -13,5 +13,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     stringr
-URL: https://github.com/kamiljenicek/test_pkg_directory
-BugReports: https://github.com/kamiljenicek/test_pkg_directory/issues
+URL: https://github.com/kamiljenicek/testpkgdirectory
+BugReports: https://github.com/kamiljenicek/testpkgdirectory/issues
