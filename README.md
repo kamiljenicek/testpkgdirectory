@@ -7,8 +7,8 @@
 
 <!-- badges: end -->
 
-The goal of testpkgdirectory is to test the package creation and splits
-a string.
+The goal of testpkgdirectory is to test the package creation and it
+splits a string.
 
 ## Installation
 
