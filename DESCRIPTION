@@ -1,4 +1,4 @@
-Package: directory
+Package: test_pkg_directory
 Title: Just trying out the package creation.
 Version: 0.0.0.9000
 Authors@R: 
